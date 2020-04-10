@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gardebook_Stud", "gardebook_Stud\gardebook_Stud.csproj", "{99222890-BA8C-4771-BED7-EB88133DE887}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99222890-BA8C-4771-BED7-EB88133DE887}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99222890-BA8C-4771-BED7-EB88133DE887}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99222890-BA8C-4771-BED7-EB88133DE887}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99222890-BA8C-4771-BED7-EB88133DE887}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8592ACEE-1B47-4249-A531-11AF0817AB8B}
+	EndGlobalSection
+EndGlobal
